@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about programming and electrical engineering!
 - 🌱 I’m currently learning information security and am preparing to take the Network+ exam
 - 💞️ 
-- 📫 How to reach me ...
+- 📫 How to reach me: https://linkedin.com/in/jpugh020
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I worked at a zoo for a few years and took close to a thousand animal pictures during my time there! I love sharing animal pictures and Natural History.
 - 
