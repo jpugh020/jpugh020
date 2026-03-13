@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpugh020
-- 👀 I’m interested in learning more about programming and electrical engineering!
+- 👀 I’m interested in learning more about electrical engineering!
 - 🌱 I’m currently learning full stack development and earning a professional certification from Microsoft
 - 📫 How to reach me: https://linkedin.com/in/jpugh020
 - 😄 Pronouns: he/him
