@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jpugh020
-- 👀 I’m interested in learning more about electrical engineering!
-- 🌱 I’m currently learning full stack development and earning a professional certification from Microsoft
+- 👋 Hi, I’m Jake
+- 👀 I work in enterprise IT, building robust systems that support multiple physical locations. 
+- 🌱 I’m currently taking a very deep dive in C and Assembly language to understand lower-level computing better. Follow my public repos if you're curious to see what I'm working on. 
 - 📫 How to reach me: https://linkedin.com/in/jpugh020
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I worked at a zoo for a few years and took close to a thousand animal pictures during my time there! I love sharing animal pictures and Natural History.
+- ⚡ Fun fact: I love animals and nature
 
 <!---
 jpugh020/jpugh020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
